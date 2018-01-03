@@ -11,12 +11,12 @@ Detail please view Report.pdf
 Versioning
 1.0.0
 
-Authors
-Huafu Hu huhuapop@outlook.com/hhu4@student.gsu.edu Computer Science of Georgia State University
+Authors:
+Huafu Hu huhuapop@outlook.com/hhu4@student.gsu.edu Computer Science of Georgia State University,
 Saide Zhu szhu5@student.gsu.edu Computer Science of Georgia State University
 
-License
+License:
 This project is licensed under the Apache License
 
-Acknowledgments
+Acknowledgments:
 Our project is based on QoEPlayer(https://github.com/zyanub/QoEPlayer).
